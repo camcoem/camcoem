@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Camila, a front end developer from Ecuador based in Berlin<br><br>🔭 I’m currently working on my portfolio website (thebarista.dev)<br>👯 I’m looking to collaborate on projects that are React based.<br>🤝 I’m looking for help with code refactoring and testing in React.<br>🌱 I’m currently learning: React Testing Library, Next.js, and TypeScript.<br>⚡ Fun fact: I am a certified Barista with a molecular parasitology background.
+I am Camila, a front end developer from Ecuador based in Berlin<br><br>🔭 I’m currently working on my portfolio website (thebarista.dev)<br>👯 I’m looking to collaborate on projects that are React based.<br>🤝 I’m looking for help with code refactoring and testing in React.<br>🌱 I’m currently learning: React Testing Library, Next.js, and TypeScript.<br>⚡ Fun fact: I am a certified Barista with a background in molecular parasitology.
 
 
 ## 🌐 Socials:
