@@ -12,9 +12,6 @@ I am Camila, a front end developer from Ecuador based in Berlin<br><br>🔭 I’
 ![](https://github-readme-streak-stats.herokuapp.com/?user=camcoem&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=camcoem&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=camcoem&icon=0&color=8)](https://visitcount.itsvg.in)
 
