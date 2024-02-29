@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Camila, a front end developer from Ecuador based in Germany<br><br>🔭 I’m currently working on my portfolio website (thebarista.dev)<br>👯 I’m looking to collaborate on projects that are React based.<br>🤝 I’m looking for help with GraphQL.<br>🌱 I’m currently learning: Next.js, GraphQL and TanStackQuery.<br>⚡ Fun fact: I am a certified Barista with a background in molecular parasitology.
+I am Camila, a Frontend developer from Ecuador based in Germany<br><br>🔭 I’m currently working on my portfolio website (thebarista.dev)<br>👯 I’m looking to collaborate on projects that are React based.<br>🤝 I’m looking for help with GraphQL.<br>🌱 I’m currently learning: Next.js, GraphQL and TanStackQuery.<br>⚡ Fun fact: I am a certified Barista with a background in molecular parasitology.
 
 
 ## 🌐 Socials:
